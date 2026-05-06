@@ -17,9 +17,9 @@ class Programa
         }
         return true;
     }
-    static String Evaluar(double temp)
+    static string Evaluar(double temp, int limite)
     {
-        if (temp > LIMITE_GLOBAL)
+        if (temp > limite)
             return "ALERTA";
         return "NORMAL";
     }
@@ -33,7 +33,7 @@ class Programa
 
         if (Validar(temp))
         {
-            string estado = Evaluar(temp);
+            string estado = Evaluar(temp, LIMITE_GLOBAL);
             Mostrar(estado);
         }
     }
