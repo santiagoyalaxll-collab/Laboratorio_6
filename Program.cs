@@ -2,34 +2,39 @@
 class Programa
 {
     static int LIMITE_GLOBAL = 80;
-    static void MostrarEncabezado()
+    static double Ingresar()
     {
-        Console.WriteLine("==== SISTEMA INDUSTRIAL ====");
+        Console.WriteLine("Ingrese temperatura: ");
+        double temperatura = double.Parse(Console.ReadLine()!);
+        return temperatura;
     }
-    static bool ValidarTemperatura(double temp)
+    static bool Validar(double temp)
     {
         if (temp < 0)
         {
-            Console.WriteLine("Error: valor inválido");
+            Console.WriteLine("Temperatura invalida");
             return false;
         }
         return true;
     }
-    static String EvaluarTemperatura(double temp)
+    static String Evaluar(double temp)
     {
         if (temp > LIMITE_GLOBAL)
             return "ALERTA";
         return "NORMAL";
     }
+    static void Mostrar(string resultado)
+    {
+        Console.WriteLine("Estado: " + resultado);
+    }
     static void Main()
     {
-        MostrarEncabezado();
-        Console.Write("Ingrese temperatura: ");
-        double temp = double.Parse(Console.ReadLine()!);
+        double temp = Ingresar();
 
-        if (ValidarTemperatura(temp))
+        if (Validar(temp))
         {
-            Console.WriteLine(EvaluarTemperatura(temp));
+            string estado = Evaluar(temp);
+            Mostrar(estado);
         }
     }
 }
