@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LABORATORIO_6/1.0.0": {
+        "runtime": {
+          "LABORATORIO_6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LABORATORIO_6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

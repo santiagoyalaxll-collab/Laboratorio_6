@@ -1,0 +1,14 @@
+C:\FundamentosDeLaProgramacion\Laboratorio_6\bin\Debug\net10.0\LABORATORIO_6.exe
+C:\FundamentosDeLaProgramacion\Laboratorio_6\bin\Debug\net10.0\LABORATORIO_6.deps.json
+C:\FundamentosDeLaProgramacion\Laboratorio_6\bin\Debug\net10.0\LABORATORIO_6.runtimeconfig.json
+C:\FundamentosDeLaProgramacion\Laboratorio_6\bin\Debug\net10.0\LABORATORIO_6.dll
+C:\FundamentosDeLaProgramacion\Laboratorio_6\bin\Debug\net10.0\LABORATORIO_6.pdb
+C:\FundamentosDeLaProgramacion\Laboratorio_6\obj\Debug\net10.0\LABORATORIO_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\FundamentosDeLaProgramacion\Laboratorio_6\obj\Debug\net10.0\LABORATORIO_6.AssemblyInfoInputs.cache
+C:\FundamentosDeLaProgramacion\Laboratorio_6\obj\Debug\net10.0\LABORATORIO_6.AssemblyInfo.cs
+C:\FundamentosDeLaProgramacion\Laboratorio_6\obj\Debug\net10.0\LABORATORIO_6.csproj.CoreCompileInputs.cache
+C:\FundamentosDeLaProgramacion\Laboratorio_6\obj\Debug\net10.0\LABORATORIO_6.dll
+C:\FundamentosDeLaProgramacion\Laboratorio_6\obj\Debug\net10.0\refint\LABORATORIO_6.dll
+C:\FundamentosDeLaProgramacion\Laboratorio_6\obj\Debug\net10.0\LABORATORIO_6.pdb
+C:\FundamentosDeLaProgramacion\Laboratorio_6\obj\Debug\net10.0\LABORATORIO_6.genruntimeconfig.cache
+C:\FundamentosDeLaProgramacion\Laboratorio_6\obj\Debug\net10.0\ref\LABORATORIO_6.dll
